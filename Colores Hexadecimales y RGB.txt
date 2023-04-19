@@ -1,0 +1,20 @@
+Alfabetos
+A, B, C, D, E, F... = Alfabeto español
+0,1,2,3,4,5,6,7,8,9 = Alfabeto numerico decimal
+0,1 = Binaria
+
+0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F = Hexadecimal
+
+------
+rrggbb 
+
+#000000 	-> Negro
+#FFFFFF	-> Blanco
+#FF000	-> Rojo
+
+
+rgb()
+0 = menor
+255 = max
+rgb (0,0,0)
+
